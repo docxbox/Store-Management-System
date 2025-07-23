@@ -72,7 +72,6 @@ Note: The system uses simple Swing components for display and does not
 store data persistently (no database/file integration).
 
 -----------------------------------------------------------
-LICENSE:
 -----------------------------------------------------------
 
 This project is licensed under the MIT License.
@@ -80,7 +79,6 @@ You are free to use, modify, and distribute the code
 with proper attribution to the author.
 
 -----------------------------------------------------------
-CONTACT:
 -----------------------------------------------------------
 
 Developer: Likhil Dahal  
